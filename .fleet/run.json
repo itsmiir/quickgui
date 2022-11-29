@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+			"name": "run",
+			"type": "command",
+			"program": "build.bat",
+			"workingDir": "build/",
+        }
+    ]
+}
