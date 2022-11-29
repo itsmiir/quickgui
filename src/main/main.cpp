@@ -1,7 +1,7 @@
-#import <stdio>
+#include <stdio.h>
+#include <iostream>
 
-
-public static int main() {
+int main() {
     std::cout << "Hello World";
     return 0;
   }
