@@ -27,7 +27,6 @@
 *.lib
 lib/
 
-
 # Executables
 *.exe
 *.out
